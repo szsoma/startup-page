@@ -129,30 +129,24 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     margin: 4rem auto;
     padding: 0 3rem;
 }
 
 .cap-describe {
-    width: 40%;
     .cap-h2 {
         font-weight: 800;
     }
 }
 .chart {
-    width: 30%;
+    width: 60%;
 }
-
-
-
 
 .pie-chart {
     border-radius: 50%;
     box-shadow: 0px 4px 12px 0 rgba(0, 0, 0, 0.3);
     margin: 2rem;
-}
-.chartlist {
-    width: 20%;
 }
 
 .chart-describe {
@@ -250,6 +244,7 @@ body {
 }
 .innonic-way {
     box-shadow: 6px 8px 30px 0 rgba(0, 0, 0, 0.1);
+    margin-bottom: 4rem;
 }
 
 .titles {
@@ -295,10 +290,6 @@ body {
 
 .modules-text {
     width: 80%;
-}
-
-.gyik {
-
 }
 
 .panel {
@@ -416,6 +407,19 @@ body {
         box-shadow: 0px 20px 40px -7px rgba(0, 0, 0, 0.4);
     }
 
+    .cap {
+        flex-direction: row;
+        .cap-describe {
+            width: 40%;
+        }
+        .chart {
+            width: 30%;
+        }
+        .chartlist {
+            width: 30%;
+        }
+    }
+
     /* Difference */
 
     .column {
@@ -426,8 +430,12 @@ body {
     }
 
     .accelerator-way {
-        transform: scale(.9);
+        transform: scale(.95);
         margin-left: -20px;
+    }
+
+    .innonic-way {
+        margin-bottom: 0;
     }
 
     /* Bootcamp */    
