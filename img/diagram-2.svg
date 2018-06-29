@@ -1,14 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
-  <title>diagram-2</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="Layer_1-2" data-name="Layer 1">
-      <g>
-        <circle cx="128" cy="128" r="128" fill="#fff"/>
-        <path d="M128,128,6,166.6a128.1,128.1,0,0,0,45.1,63.7Z" fill="#959595"/>
-        <path d="M128,128,51.1,230.3A127.7,127.7,0,0,0,128,256h1.6Z" fill="#b7b7b7"/>
-        <path d="M128,128l1.5,128a128,128,0,0,0,120.1-88.1Z" fill="#d7d7d7"/>
-        <path d="M128,128V0C57.8,0,0,57.8,0,128a127.2,127.2,0,0,0,6,38.7Z" fill="#707070"/>
-      </g>
-    </g>
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#959595;}
+	.st2{fill:#B7B7B7;}
+	.st3{fill:#D7D7D7;}
+	.st4{fill:#707070;}
+</style>
+<g id="Layer_2_1_">
+	<g id="Layer_1-2">
+		<g>
+			<circle class="st0" cx="128" cy="128" r="128"/>
+			<path class="st1" d="M128,128L6,166.6c8,25.4,23.8,47.7,45.1,63.7L128,128z"/>
+			<path class="st2" d="M128,128L51.1,230.3C73.3,247,100.3,256,128,256h1.6L128,128z"/>
+			<path class="st3" d="M128,128l1.5,128c54.8-0.7,103-36.1,120.1-88.1L128,128z"/>
+			<path class="st4" d="M128,128V0C57.8,0,0,57.8,0,128c0,13.1,2,26.2,6,38.7L128,128z"/>
+		</g>
+	</g>
+</g>
 </svg>
