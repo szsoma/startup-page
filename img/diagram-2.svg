@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>diagram-2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <circle cx="128" cy="128" r="128" fill="#fff"/>
+        <path d="M128,128,6,166.6a128.1,128.1,0,0,0,45.1,63.7Z" fill="#959595"/>
+        <path d="M128,128,51.1,230.3A127.7,127.7,0,0,0,128,256h1.6Z" fill="#b7b7b7"/>
+        <path d="M128,128l1.5,128a128,128,0,0,0,120.1-88.1Z" fill="#d7d7d7"/>
+        <path d="M128,128V0C57.8,0,0,57.8,0,128a127.2,127.2,0,0,0,6,38.7Z" fill="#707070"/>
+      </g>
+    </g>
+  </g>
+</svg>
