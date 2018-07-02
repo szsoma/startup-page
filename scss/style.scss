@@ -230,7 +230,7 @@ body {
 }
 
 .table li:not(:first-of-type){
-    border-top: 1px solid #cdd3d4;
+    border-top: 1px solid lighten($gray, 20%);
 }
 
 .column {
@@ -249,7 +249,7 @@ body {
     width: 60%;
 }
 .accelerator-way {
-    background: #f7f8f8;
+    background: lighten($gray, 32%);
 }
 .innonic-way {
     box-shadow: 6px 8px 30px 0 rgba(0, 0, 0, 0.1);
@@ -449,6 +449,12 @@ body {
 
     .innonic-way {
         margin-bottom: 0;
+    }
+
+    .titles {
+        li {
+        width: 250px;
+        }
     }
 
     /* Bootcamp */    
