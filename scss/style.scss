@@ -341,6 +341,10 @@ body {
     padding: 0 1rem;
 }
 
+.panel-body ul {
+    opacity: .7;
+}
+
 .panel-body {
     background: $innonic-dark;
 }
@@ -349,7 +353,8 @@ body {
     font-family: 'Glyphicons Halflings';
     content: "\e260";
     color: $innonic-light-emerald;
-    margin: 0 3rem;
+    margin: 0 2rem;
+    float: left;
 }
 
 .panel-heading .accordion-toggle.collapsed:after {
